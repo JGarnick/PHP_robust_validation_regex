@@ -1,0 +1,5 @@
+- Index.php is the regular expressions version of the assignment. It has also been improved from indexFINISHED
+
+- IndexFINISHED is the assignment with manual validation (no regular expressions).
+
+- String_Tester has been modified with spans declaring the "$phone_error", "$name_error", and "$email_error" on the form.
